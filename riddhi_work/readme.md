@@ -45,3 +45,5 @@ Q7) Is it good idea to use multithreading in python?
 Q8) Difference between regular `open` and `with open` in file management?
 
 Q9) WAP to create scitific calculator?
+
+Q10) What is `csrf_token` in django? why we use that? what are the advantages? is there any alternetive to csrf_token ?
