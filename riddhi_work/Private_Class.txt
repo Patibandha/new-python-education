@@ -1,0 +1,11 @@
+# How to write private class in python? give program for example.
+
+In a python there is no such thing like Private and Protected.
+But generally, we can use single underscore prefix to class name or any other object in Python will make it Private class or Private object. Same to make protected object use double underscore prefix to the object name.
+
+For example, 
+class _MyClass:
+	def __my_private_method:
+		pass
+
+Here by writting '_' before the Class name, will make it Private class.
