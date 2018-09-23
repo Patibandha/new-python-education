@@ -47,3 +47,9 @@ Q8) Difference between regular `open` and `with open` in file management?
 Q9) WAP to create scitific calculator?
 
 Q10) What is `csrf_token` in django? why we use that? what are the advantages? is there any alternetive to csrf_token ?
+
+Q11) what is lambda in python give exmple of it?
+
+Q12) what is map, reduce and lambda in python, what are the differece between them, give example?
+
+Q13)what is inline function, what are the advantage of using it?
