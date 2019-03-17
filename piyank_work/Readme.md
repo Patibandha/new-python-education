@@ -8,4 +8,9 @@ i have created pp-001
  WAP to find prime numbers from 0 to 1000000
  
  Date 03/16/2019 
- How python manage memory?
+ 1) How python manage memory?
+ 2) what are the different types of data types in python?
+ 3) what are index datatypes which one is index datatype in python?
+ 4) what is difference between list and tuples?
+ 
+ all exersices has been completed 3/17/2019 24:00 hours
