@@ -13,4 +13,4 @@ i have created pp-001
  3) what are index datatypes which one is index datatype in python?
  4) what is difference between list and tuples?
  
- all exersices has been completed 3/17/2019 24:00 hours
+ all exersices has tobe completed 3/17/2019 24:00 hours
